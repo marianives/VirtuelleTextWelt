@@ -1,0 +1,40 @@
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.csprojAssemblyReference.cache
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.AssemblyInfoInputs.cache
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.AssemblyInfo.cs
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.csproj.CoreCompileInputs.cache
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.exe
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.deps.json
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.runtimeconfig.json
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.runtimeconfig.dev.json
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.dll
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.pdb
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.dll
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.pdb
+C:\Users\aurel\BBBaden\Maria-Nives.Gallo - Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.genruntimeconfig.cache
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.exe
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.deps.json
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.runtimeconfig.json
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.runtimeconfig.dev.json
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.dll
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.pdb
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.csprojAssemblyReference.cache
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.AssemblyInfoInputs.cache
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.AssemblyInfo.cs
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.csproj.CoreCompileInputs.cache
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.dll
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.pdb
+C:\Users\M.Gallo.inf20\OneDrive - BBBaden\Virtuelle Text-Welt\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.genruntimeconfig.cache
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.exe
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.deps.json
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.runtimeconfig.json
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.runtimeconfig.dev.json
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.dll
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\bin\Debug\netcoreapp3.1\Virtuelle Textwelt.pdb
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.csproj.AssemblyReference.cache
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.AssemblyInfoInputs.cache
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.AssemblyInfo.cs
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.csproj.CoreCompileInputs.cache
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.dll
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.pdb
+C:\Users\M-N Kanti\Desktop\Virtuelle Textwelt\Virtuelle Textwelt\obj\Debug\netcoreapp3.1\Virtuelle Textwelt.genruntimeconfig.cache
